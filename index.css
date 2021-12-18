@@ -1,0 +1,29 @@
+.hu{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+
+   
+}
+html,body{
+	background-color: lightskyblue;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+.help{
+	text-decoration: underline;
+}
+
+li{
+	font-size: 38px;
+}
+
+button {
+	background-color: pink;
+}
+
+.counter {
+	font-size: 50px;
+}
